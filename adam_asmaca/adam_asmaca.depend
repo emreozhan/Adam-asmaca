@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1427558340 source:c:\users\emreozhan\desktop\programlarým\adam_asmaca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1427561940 source:g:\masaüstü yedek 2016\programlarým\adam_asmaca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
